@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Souvik Sarkar</h1>
-<h3 align="center">Software Engineer - Scalable Systems</h3>
+<h3 align="center">Software Engineer - Backend</h3>
 
-- 💬 Ask me about **Computer Science**
+- 💬 Ask me about **Large Scale Systems**
 
 - 📫 How to reach me **souviksarkar2k3@gmail.com**
 
@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/souviks22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souviks22" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/souvik0903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="souvik0903" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/souviksarkar2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="souviksarkar2k3" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/souvikofculture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="souviksarkar2k3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/souviksarkar2k3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souviksarkar2k3" height="30" width="40" /></a>
 </p>
 
