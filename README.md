@@ -6,15 +6,21 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="100" height="100" />
 </p>
 
+I’m a backend engineer focused on distributed systems, scalability, and developer experience.
+I design and build fault-tolerant, production-grade systems, with an emphasis on clear abstractions and real-world trade-offs.
 
-I'm a **backend engineer** passionate about **distributed systems**, **scalability**, and **developer experience**. I love to solve complex design problems to ultimately produce a useful software.
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="18" height="18" /> Artifacts
+
+  
+| Project | Problem | Core Concept | Links |
+|-------|--------|--------------|-------|
+| **Decentralized Rate Limiter** | Centralized rate limiters become **single points of failure** and don’t scale well across regions or partitions | **CRDT-based counters** with **gossip-driven state propagation** for coordination-free, fault-tolerant rate limiting | [Repo](https://github.com/souviks22/decentralized-rate-limiter) <br/> [Design](https://medium.com/@souviksarkar2k3/high-level-design-of-a-decentralized-rate-limiter-1bcc33154ce9) |
+| **Bring Your Own Identity (BYOI)** | Web apps tightly couple **user identity to platforms**, limiting portability and user ownership | **User-owned identity layer** via **browser extension + SDK**, enabling apps to authenticate without owning identity | [Repo](https://github.com/souviks22/byoi) |
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="18" height="18" /> **Projects:** CRDTs + gossip-based decentralized rate limiter
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers%20Medium-Light%20Skin%20Tone.png" alt="Crossed Fingers Medium-Light Skin Tone" width="18" height="18" /> **Tech Stack:** Go, TypeScript, Docker, AWS  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="18" height="18" /> **Worked with:** Go, TypeScript, Docker, AWS, Kafka, Redis, Oracle Database
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Man Lifting Weights Light Skin Tone" width="18" height="18" /> **Problem Solving:** LeetCode [2275](https://leetcode.com/u/souviksarkar2k3/) | CodeForces [1993](https://codeforces.com/profile/souvikofculture)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="18" height="18" /> **Learning:** LLMs, Kubernetes
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="18" height="18" /> **Open to:** Backend Infra roles  
 
 ---
 
@@ -25,7 +31,7 @@ I'm a **backend engineer** passionate about **distributed systems**, **scalabili
   <a href="mailto:souviksarkar2k3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/15CyMNR9tnXnxjnjMnXZcy-XhFnGj14Rl/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1Ac7YeBn2NgzeZPP-m7snM6xTfwP9QjlX/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-2C3E50?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
 </p>
