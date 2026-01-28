@@ -16,7 +16,7 @@ I design and build fault-tolerant, production-grade systems, with an emphasis on
 | Project | Problem | Core Concept | Links |
 |-------|--------|--------------|-------|
 | **Decentralized Rate Limiter** | Centralized rate limiters become **single points of failure** and don’t scale well across regions or partitions | **CRDT-based counters** with **gossip-driven state propagation** for coordination-free, fault-tolerant rate limiting | [Repo](https://github.com/souviks22/decentralized-rate-limiter) <br/> [Design](https://medium.com/@souviksarkar2k3/high-level-design-of-a-decentralized-rate-limiter-1bcc33154ce9) |
-| **Bring Your Own Identity (BYOI)** | Web apps tightly couple **user identity to platforms**, limiting portability and user ownership | **User-owned identity layer** via **browser extension + SDK**, enabling apps to authenticate without owning identity | [Repo](https://github.com/souviks22/byoi) |
+| **Bring Your Own Identity (BYOI)** | Web apps tightly couple **user identity to platforms**, limiting portability and user ownership | **User-owned identity layer** via **browser extension + SDK**, enabling apps to authenticate without owning identity | [Repo](https://github.com/souviks22/byoi) <br/> [Extension](https://chromewebstore.google.com/detail/bring-your-own-identity-b/eaoknlfgonfekahpfdpmafpipfdnejji) <br/> [SDK](https://www.npmjs.com/package/byoi) |
 
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="18" height="18" /> **Worked with:** Go, TypeScript, Docker, AWS, Kafka, Redis, Oracle Database
