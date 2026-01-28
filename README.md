@@ -10,7 +10,7 @@ I’m a backend engineer focused on distributed systems, scalability, and develo
 I design and build fault-tolerant, production-grade systems, with an emphasis on clear abstractions and real-world trade-offs.
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="18" height="18" /> Artifacts
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" height="20" /> Artifacts
 
   
 | Project | Problem | Core Concept | Links |
@@ -19,8 +19,10 @@ I design and build fault-tolerant, production-grade systems, with an emphasis on
 | **Bring Your Own Identity (BYOI)** | Web apps tightly couple **user identity to platforms**, limiting portability and user ownership | **User-owned identity layer** via **browser extension + SDK**, enabling apps to authenticate without owning identity | [Repo](https://github.com/souviks22/byoi) <br/> [Extension](https://chromewebstore.google.com/detail/bring-your-own-identity-b/eaoknlfgonfekahpfdpmafpipfdnejji) <br/> [SDK](https://www.npmjs.com/package/byoi) |
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="18" height="18" /> **Worked with:** Go, TypeScript, Docker, AWS, Kafka, Redis, Oracle Database
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" alt="Man Lifting Weights Light Skin Tone" width="18" height="18" /> **Problem Solving:** LeetCode [2275](https://leetcode.com/u/souviksarkar2k3/) | CodeForces [1993](https://codeforces.com/profile/souvikofculture)
+
+**Worked with:** Go, TypeScript, Docker, AWS, Kafka, Redis, Oracle Database
+
+**Problem Solving:** LeetCode [2275](https://leetcode.com/u/souviksarkar2k3/) | CodeForces [1993](https://codeforces.com/profile/souvikofculture)
 
 ---
 
@@ -31,7 +33,7 @@ I design and build fault-tolerant, production-grade systems, with an emphasis on
   <a href="mailto:souviksarkar2k3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1Ac7YeBn2NgzeZPP-m7snM6xTfwP9QjlX/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1O2_ErXZlvdVNGCj0fkoVDAmHoyvkn_uh/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-2C3E50?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
 </p>
