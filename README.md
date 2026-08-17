@@ -1,20 +1,82 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20Hi,%20I'm%20Souvik&fontAlignY=40&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Souvik!&fontAlignY=40&fontSize=45" />
+</p>
+
+<h3 align="center">
+  Backend Engineer · Distributed Systems
+</h3>
+
+<p align="center">
+  I build backend systems with a focus on concurrency, reliability, performance, and distributed systems.
 </p>
 
 <p align="center">
-  I am an engineer who can both design systems and reason deeply about algorithms.
+  <a href="https://leetcode.com/u/souviksarkar2k3/">LeetCode Guardian</a>
+  &nbsp;·&nbsp;
+  <a href="https://codeforces.com/profile/souvikofculture">CodeForces Candidate Master</a>
 </p>
-<p align="center">
-  <span>LeetCode <a href="https://leetcode.com/u/souviksarkar2k3/">Guardian</a></span> | 
-  <span>CodeForces <a href="https://codeforces.com/profile/souvikofculture">Candidate Master</a></span>
-</p>
-<p align="center">
-  Skills: Python, SQL, Docker, Kafka, Redis, LLMs
-</p>
-<p align="center">
-  I write good code.
-</p>
+
+---
+
+### What I work on
+
+* Distributed systems and fault-tolerant services
+* Concurrency, consistency, and synchronization
+* Caching, rate limiting, messaging, and storage
+* API and service design
+* Performance and reliability
+
+### Projects
+
+#### Sluice — Distributed Rate Limiter
+
+Redis-backed rate limiter designed for concurrent, distributed workloads.
+
+* Token Bucket, Sliding Window Log, and Sliding Window Counter
+* Redis + Lua for atomic state transitions
+* FastAPI middleware integration
+* Focused on concurrency correctness and race-condition prevention
+
+#### Continuum — Distributed Key-Value Store
+
+A distributed key-value store built to explore the fundamentals behind reliable distributed storage.
+
+* Raft-style consensus
+* Leader election and log replication
+* Replicated state
+* Failure handling and consistency
+
+---
+
+### Stack
+
+**Languages**
+
+`Python` `C++` `SQL`
+
+**Backend & Infrastructure**
+
+`FastAPI` `Redis` `Kafka` `Docker` `Linux`
+
+**Data**
+
+`PostgreSQL` `MySQL`
+
+---
+
+### Engineering Interests
+
+```text
+Distributed Systems
+        ↓
+Concurrency & Consistency
+        ↓
+Fault Tolerance & Reliability
+        ↓
+Performance & Scalability
+```
+
+I like taking systems apart, understanding their failure modes, and building them back into working software.
 
 ---
 
@@ -26,4 +88,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
